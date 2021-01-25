@@ -1,0 +1,10 @@
+H1 { text-align: center }
+
+div.section {
+    height: 20em;
+    display: flex;
+    align-items: center;
+    justify-content: center }
+
+div.setction img {
+    margin: 0 }
